@@ -15,7 +15,7 @@ Cabular is a modular, microservice-based system design for a real-time ride-hail
 
 ## 📐 Architecture Overview
 
-![High-Level Architecture](architecture/high_level_architecture.png)
+![High-Level Architecture]([architecture/high_level_architecture.png](https://github.com/khushi1804/Cabular/blob/main/High_Level_Architecture.png))
 
 - Microservices: Rider, Driver, Trip, Pricing, Notification
 - Kafka for async event pipelines
